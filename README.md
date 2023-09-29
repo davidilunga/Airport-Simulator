@@ -1,4 +1,4 @@
-# **Airport Borading System Simulator**
+# **Airport Boarding System Simulator**
 Description: An Airplane Simulator made in Java is a software application that replicates the experience of flying an airplane. It's designed for entertainment, training, or educational purposes, providing users with a realistic or semi-realistic simulation of aircraft operation and control. With this code, I cna simulate users borading a plane. The different instances that I tackled were:
 
 Add a new passenger 
